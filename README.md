@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hagetenet
-- 👀 I’m interested in API, spring boot and PL/SQL
+- 👀 I’m interested in API, spring boot
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate...
 
